@@ -1,4 +1,4 @@
-**To create own custom set of hooks on repository. Directory called "hooks" ** - - > mkdir -p hooks
+**To create own custom set of hooks on repository. Directory called "hooks"** - - > mkdir -p hooks
 
 **To configure hooks path to point to this directory(hooks)** - - > git config core.hooksPath hooks
 
